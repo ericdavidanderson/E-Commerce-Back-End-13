@@ -13,8 +13,13 @@
 - [GitHub username](#username)
 - [Questions](#email)    :mailbox: 
 
+
 ## Description: 
 This is a fully interactive back end database using an Express.js API to use Sequelize to interact with a MySQL database.  This is a CLI app and will no be using a GUI.  All the routes have been verified with Insomnia Core.  Routes inclued GET, POST, PUT, and DELETE.  Database models inclued Category, Product, Product Tag and Tag with routes to GET, POST, PUT, and DELETE on all Models.  
+
+## Walkthrough Video:  
+https://vimeo.com/660803994/a245dcaa10
+
 
 ## Installation:
 From the command line run NPM i to install NPM packages required, then from the index file, run npm start to run the program from the CLI.
@@ -33,6 +38,8 @@ ericdavidanderson @ https://github.com/ericdavidanderson
 
 ## Email: 
 burrej1@gmail.com:mailbox:
+
+
  
 
 
